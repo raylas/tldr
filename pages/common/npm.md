@@ -27,6 +27,10 @@
 
 `npm list`
 
+- List an abbreviated tree of globally installed modules:
+
+`npm list -g --depth=0`
+
 - Interactively create a package.json file:
 
 `npm init`
